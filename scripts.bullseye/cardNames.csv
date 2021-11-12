@@ -81,6 +81,8 @@ dt1,you killed!!! (Psychology Backdoor),du hast gemordet (Psychologische Hintert
 dt2,warnen,Warnen
 dt3,cAPI <parameter>,cAPI <Parameter>
 dt4,you planted booby traps (Psychology Backdoor),du hast Cyber-Sprengfallen gepflanzt)
+dt5,just obeying orders is wrong,question orders
+dt6,Risky Shift,decisions in groups are made riskier
 e1,[vacuum|electron] tube,Elektronen-Röhre
 e2,cavity magnetron,Holraum Magnetron
 e3,[tunnel|ESAKI] diode,Tunnel Diode
