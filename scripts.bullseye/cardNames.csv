@@ -29,9 +29,7 @@ a25,SI Base Unit Consciousnes,SI Einheit Bewusstsein
 a26,brain dDOS,content stacksmashing
 a27,ArrayList gefahrInVerzug,ArrayList EndangeredKids
 a27b,ArrayList goodies,ArrayList gute todos
-a27,ArrayList goodies,ArrayList gute todos
-a27b,ArrayList goodies,ArrayList gute todos
-a27c,ArrayList goodies,ArrayList gute todos
+a27c,ArrayList TODO,ArrayList todos, re-orderedList
 a28,Action Recognition,Verhaltens Erkennung
 a28b,object on action recog,Objekt am Verhnalten erkennen
 a29,QAM64 and the Brain, QAM64 und gehirn
@@ -214,6 +212,10 @@ m95,"Enlightenment" with drugs,Erleuchtung mit Drogen
 m96,Twin Towers 9/11,Twin Towers
 m97,[good|bad] gamification,[gute|schlechte] Gamification
 m98,3D model of victims apartment,3D Modell der Wohung des Opfers
+m98b,3D model of victims apartment,3D Modell der Wohung des Opfers
+m98c,3D model of victims apartment,3D Modell der Wohung des Opfers
+m98d,3D model of victims apartment,3D Modell der Wohung des Opfers
+m98e,3D model of victims apartment,3D Modell der Wohung des Opfers
 m99,3D model of victims body,3D Modell des Körpers des Opfers
 m100,HACKER ETHics,Hacker Ethik
 m101,second use case for RUP graphic,2. Anwendungsfall für RUP Grafik
