@@ -1,4 +1,5 @@
 card,english,german
+a0,additional comm-channels,no censorship
 a1,normal distribution,Normalverteilung
 a2,hysteresis remanence,Hysterese Remanenz
 a3,military rank,militärischer Rang
@@ -28,11 +29,19 @@ a25,SI Base Unit Consciousnes,SI Einheit Bewusstsein
 a26,brain dDOS,content stacksmashing
 a27,ArrayList gefahrInVerzug,ArrayList EndangeredKids
 a27b,ArrayList goodies,ArrayList gute todos
+a27,ArrayList goodies,ArrayList gute todos
+a27b,ArrayList goodies,ArrayList gute todos
+a27c,ArrayList goodies,ArrayList gute todos
+a28,Action Recognition,Verhaltens Erkennung
+a28b,object on action recog,Objekt am Verhnalten erkennen
+a29,QAM64 and the Brain, QAM64 und gehirn
 at1,Assassin,Attentäter
 b1,amygdala,Amygdala
 b2,Pituitary gland or hypophysis,Glandula pituitaria oder Hypophyse
 b3,nucleus accumbens,Nucleus accumbens
 b4,EEG / flash short term memory / qFire?,EEG / gehirn blitz weg dings / qFire?
+b5,brodmann areas, brodmann areale
+b5b,brodmann areas and content, brodmann areale esoterisch
 bio1,phylogenetic tree,Phylogenetischer Baum
 bo1,induced burnout,induziertes Burnout
 c1,beer,Bier
@@ -48,6 +57,7 @@ co6,induced rage,induzierte Wut
 co7,social network graphs,Sozio-Netzwerk Graphen
 co8,eStim,Elektrostimulation
 co9,driving whistlebloers away from ISPs,Whistleblower vom Netz wegtreiben
+c09,dont read yellow box in m93,nicht!!!
 co10,pre rendered destruction (als m98),vorausgerenderte Zerstörung
 co11,brain implants info deffence statemachine,xxxxxxxx
 co12,behavioral science stealth mode cam,Verhaltenswissenschaftlich getarnte Kamera

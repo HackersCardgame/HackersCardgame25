@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2338439"
-     inkscape:cx="114.68301"
-     inkscape:cy="197.49581"
+     inkscape:zoom="3.3777089"
+     inkscape:cx="68.371865"
+     inkscape:cy="126.58261"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -198,33 +198,31 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          id="flowPara3350"
-         style="text-align:justify;text-anchor:start">https://en.wikipedia.org/wiki/UML_state_machine</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;text-anchor:start">https://en.wikipedia.org/wiki/UML_state_machine</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5119" /><flowPara
+         id="flowPara5121">If you have a production line (that can be abused to programm <flowSpan
+   style="fill:#808000"
+   id="flowSpan443">stimulus-response habits</flowSpan>), the line can have several different states, so you have to find the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5121">If you have a production line (that can be abused to programm stimulus-reaction-habits), the line can have several different states, so you have to define the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
+         id="flowPara1245" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5125">The same principle is unfortunately also abused </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5127">aganist humans or even children: </flowPara><flowPara
+         id="flowPara5127">aganist humans eg. in their bedroom (see m98, m99 Card): </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara11570">1. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#008000"
    id="flowSpan5137">Normal</flowSpan>: loop { you will be raped } =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5131">2. <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#ffff00"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#808000"
    id="flowSpan5139">Annoyed</flowSpan>: someone says &quot;Fu** your Mother&quot; =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5143">3. <flowSpan
+         id="flowPara5155">3. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#ff0000"
    id="flowSpan5145">Rage</flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5153" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5155">Induced with eg t1 or t* card</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5133" /></flowRoot>    <text
+         id="flowPara5133">Induced with t* cards</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -354,7 +352,7 @@
            id="tspan558"
            x="9.8077641"
            y="54.259716"
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame3</tspan></text>
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.06;stroke-miterlimit:4;stroke-dasharray:none">https://0x8.ch/HackersCardgame23</tspan></text>
     </g>
   </g>
   <g
