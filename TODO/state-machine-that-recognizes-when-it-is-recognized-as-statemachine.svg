@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="state-machine-that-recognizes-when-it-is-recognized-as-statemachine.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker2785"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2783" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2775"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2773" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2527"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2525" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2413"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2411" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2305"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2303" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2107"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2105" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1958"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1956" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1797"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1795" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1662"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1660" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1584"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1582" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1387"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1385" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1377"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1375" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1367"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1365" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1265"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1263" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1158"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1156" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path875" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1241.8974"
+     inkscape:cy="267.2665"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect2691"
+       width="425.49307"
+       height="257.64783"
+       x="-121.8749"
+       y="-45.970356"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.546898"
+       y="130.98544"
+       id="text1202"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1200"
+         x="78.546898"
+         y="130.98544"
+         style="stroke-width:0.264583">[Reinfection]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.8657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296643"
+       x="-83.311333"
+       y="-11.171354"
+       id="text835"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         x="-83.311333"
+         y="-11.171354"
+         style="font-weight:bold;stroke-width:0.296643"
+         id="tspan837">Corona reinfection loop state machine <tspan
+   style="font-weight:bold;fill:#008000;stroke-width:0.296643"
+   id="tspan1501">(BUSTED)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+       x="-32.736015"
+       y="27.476412"
+       id="text843"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="-32.736015"
+         y="27.476412"
+         style="stroke-width:0.166942">Code Fingerpinting</tspan></text>
+    <g
+       id="g854"
+       transform="translate(61.159989,-8.8657506)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+         id="rect845"
+         width="84.547043"
+         height="20.291094"
+         x="33.88868"
+         y="75.466057" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+         x="39.987682"
+         y="88.124901"
+         id="text849"><tspan
+           sodipodi:role="line"
+           id="tspan847"
+           x="39.987682"
+           y="88.124901"
+           style="stroke-width:0.166942">Object n was infected</tspan></text>
+    </g>
+    <g
+       id="g862"
+       transform="translate(-65.840014,-8.4877744)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+         id="rect856"
+         width="84.547043"
+         height="20.291094"
+         x="33.88868"
+         y="75.466057" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+         x="39.987682"
+         y="88.124901"
+         id="text860"><tspan
+           sodipodi:role="line"
+           id="tspan858"
+           x="39.987682"
+           y="88.124901"
+           style="stroke-width:0.166942">Object 1 was infected</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 24.118317,65.217581 C 64.468679,24.086939 97.355709,35.94596 127.68379,65.973535"
+       id="path864"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1158)"
+       d="M 127.12492,87.725428 C 86.774559,128.85608 52.753599,119.64288 22.425515,89.615307"
+       id="path1154"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.799873"
+       y="39.893181"
+       id="text1206"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1204"
+         x="94.799873"
+         y="39.893181"
+         style="stroke-width:0.264583">[Reinfection]</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+       id="rect856-7"
+       width="84.547043"
+       height="20.291094"
+       x="-33.652229"
+       y="138.60477"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+       x="-27.553226"
+       y="151.26361"
+       id="text860-3"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan858-0"
+         x="-27.553226"
+         y="151.26361"
+         style="stroke-width:0.166942">No reifection</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1265)"
+       d="M -8.0096609,88.652105 9.7552205,138.16698"
+       id="path1255"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect2691-1"
+       width="548.43701"
+       height="391.28259"
+       x="321.08093"
+       y="-45.970356"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="455.83929"
+       y="135.31548"
+       id="text1323"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1321"
+         x="455.83929"
+         y="135.31548"
+         style="stroke-width:0.264583">[Reinfection]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.8657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296643"
+       x="360.22168"
+       y="-9.6311216"
+       id="text1327"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         x="360.22168"
+         y="-9.6311216"
+         style="font-weight:bold;stroke-width:0.296643"
+         id="tspan1325">Corona reinfection loop state machine 2 <tspan
+   style="font-weight:bold;fill:#008000;stroke-width:0.296643"
+   id="tspan1503">(BUSTED)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="360.22168"
+         y="5.2010026"
+         style="font-weight:bold;stroke-width:0.296643"
+         id="tspan1865">Statemachine recognizes if it's recognized as state machine =&gt; x3 FU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+       x="330.57126"
+       y="37.098114"
+       id="text1331"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1329"
+         x="330.57126"
+         y="37.098114"
+         style="stroke-width:0.166942">Code Fingerpinting</tspan></text>
+    <g
+       id="g1339"
+       transform="translate(424.46727,0.7559524)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+         id="rect1333"
+         width="84.547043"
+         height="20.291094"
+         x="33.88868"
+         y="75.466057" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+         x="39.987682"
+         y="88.124901"
+         id="text1337"><tspan
+           sodipodi:role="line"
+           id="tspan1335"
+           x="39.987682"
+           y="88.124901"
+           style="stroke-width:0.166942">Object n was infected</tspan></text>
+    </g>
+    <g
+       id="g1347"
+       transform="translate(297.46726,1.1339286)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+         id="rect1341"
+         width="84.547043"
+         height="20.291094"
+         x="33.88868"
+         y="75.466057" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+         x="39.987682"
+         y="88.124901"
+         id="text1345"><tspan
+           sodipodi:role="line"
+           id="tspan1343"
+           x="39.987682"
+           y="88.124901"
+           style="stroke-width:0.166942">Object 1 was infected</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1387)"
+       d="m 387.4256,74.839284 c 40.35036,-41.130642 73.23739,-29.271621 103.56547,0.755954"
+       id="path1349"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1377)"
+       d="M 490.4322,97.347131 C 450.08184,138.47778 416.06088,129.26458 385.73279,99.23701"
+       id="path1351"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="458.10715"
+       y="49.514885"
+       id="text1355"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1353"
+         x="458.10715"
+         y="49.514885"
+         style="stroke-width:0.264583">[Reinfection]</tspan></text>
+    <rect
+       style="fill:#ffff00;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+       id="rect1357"
+       width="84.547043"
+       height="20.291094"
+       x="329.65506"
+       y="148.22647"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67767px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.166942"
+       x="335.75406"
+       y="160.86147"
+       id="text1361"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1359"
+         x="335.75406"
+         y="160.86147"
+         style="stroke-width:0.166942">No reifection</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1367)"
+       d="m 355.29762,98.273808 -0.75595,49.892852"
+       id="path1363"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-86.628693"
+       y="121.15805"
+       id="text1499"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1497"
+         x="-86.628693"
+         y="121.15805"
+         style="fill:#008000;stroke-width:0.264583">[no Reinfection]</tspan></text>
+    <g
+       id="g1559"
+       transform="translate(44.979166,-27.970245)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#ff0000;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+         id="rect1357-2"
+         width="84.547043"
+         height="20.291094"
+         x="421.5033"
+         y="176.19672" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.13334px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.153334"
+         x="424.64697"
+         y="184.10806"
+         id="text1361-8"><tspan
+           sodipodi:role="line"
+           x="424.64697"
+           y="184.10806"
+           style="fill:#ffff00;stroke-width:0.153334"
+           id="tspan1549">haha, satan infected the </tspan><tspan
+           sodipodi:role="line"
+           x="424.64697"
+           y="191.77473"
+           style="fill:#ffff00;stroke-width:0.153334"
+           id="tspan1553">water supply with cornoa</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1584)"
+       d="m 415.39583,158.37202 h 46.11309"
+       id="path1574"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1662)"
+       d="m 551.02952,148.22647 c 11.04249,-24.07191 26.8775,-35.2617 -7.12178,-61.291947"
+       id="path1652"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <g
+       id="g1785"
+       transform="translate(15.191766,24.614309)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <rect
+         style="fill:#00ff00;stroke:#000000;stroke-width:3.4192;stroke-linecap:round;stop-color:#000000"
+         id="rect1357-9"
+         width="232.1701"
+         height="27.778393"
+         x="580.71405"
+         y="78.714958" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.51467px;line-height:0.9;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137867"
+         x="696.97009"
+         y="89.162338"
+         id="text1758"><tspan
+           sodipodi:role="line"
+           x="696.97009"
+           y="89.162338"
+           style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+           id="tspan1760">me: wait a moment, the towels still have anough laundry detergent</tspan><tspan
+           sodipodi:role="line"
+           x="696.97009"
+           y="94.125542"
+           style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+           id="tspan1764">in it so that corona would not survive, and that's also no problem</tspan><tspan
+           sodipodi:role="line"
+           x="696.97009"
+           y="99.088745"
+           style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+           id="tspan1768">for the skin even i it's agressive  because it's only a few seconds on the skin</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1797)"
+       d="m 594.62925,116.46252 c -1.51191,0 -26.08035,0 -26.08035,0"
+       id="path1787"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1958)"
+       d="M 713.07509,132.29841 C 702.29244,165.88173 606.88,149.0473 553.78245,157.42175"
+       id="path1948"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <g
+       id="g1785-8"
+       transform="translate(58.504582,83.526464)"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28">
+      <g
+         id="g2095"
+         transform="translate(-27.970238,11.339286)">
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:3.4192;stroke-linecap:round;stop-color:#000000"
+           id="rect1357-9-5"
+           width="88.913651"
+           height="18.769707"
+           x="654.2132"
+           y="80.585846" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.51467px;line-height:0.9;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137867"
+           x="696.97009"
+           y="89.162338"
+           id="text1758-3"><tspan
+             sodipodi:role="line"
+             x="696.97009"
+             y="89.162338"
+             style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+             id="tspan1768-5">me: wait a moment: that's </tspan><tspan
+             sodipodi:role="line"
+             x="696.97009"
+             y="94.125542"
+             style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+             id="tspan2089">just a stupid state machine</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2775)"
+         d="m 625.63232,101.30389 c -18.50496,-6.204477 -32.8837,13.87774 -45.73514,-27.59226"
+         id="path2097"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect2643"
+         width="298.2728"
+         height="121.34036"
+         x="464.2746"
+         y="118.52929" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2785)"
+         d="M 668.34363,111.88722 649.8228,134.56579"
+         id="path2199" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2305)"
+         d="M 573.84958,145.14913 C 555.34462,138.94466 494.09684,165.07448 469.15016,89.208654"
+         id="path2301"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g2095-8"
+         transform="translate(-178.87104,101.6695)">
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:3.4192;stroke-linecap:round;stop-color:#000000"
+           id="rect1357-9-5-8"
+           width="88.913651"
+           height="18.769707"
+           x="654.2132"
+           y="80.585846" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.51467px;line-height:0.9;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137867"
+           x="696.97009"
+           y="89.162338"
+           id="text1758-3-6"><tspan
+             sodipodi:role="line"
+             x="696.97009"
+             y="89.162338"
+             style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+             id="tspan1768-5-9">me: wait a moment: that's </tspan><tspan
+             sodipodi:role="line"
+             x="696.97009"
+             y="94.125542"
+             style="text-align:center;text-anchor:middle;stroke-width:0.137867"
+             id="tspan2089-2">just a stupid state machine</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2413)"
+         d="m 519.04302,181.81281 9.44942,-33.63987"
+         id="path2403"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2527)"
+         d="m 565.91208,192.39614 c 32.84859,-11.91042 85.87936,25.28846 105.45536,-32.12797"
+         id="path2517"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="480.31079"
+         y="218.4881"
+         id="text2647"><tspan
+           sodipodi:role="line"
+           x="480.31079"
+           y="218.4881"
+           style="stroke-width:0.264583"
+           id="tspan2649">Loops forever, so maybe we could find this loops</tspan><tspan
+           sodipodi:role="line"
+           x="480.31079"
+           y="231.71722"
+           style="stroke-width:0.264583"
+           id="tspan2653">an an abstract level ???????</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:2.4976;stroke-linecap:round;stop-color:#000000"
+       id="rect1357-2-1"
+       width="163.65883"
+       height="20.558367"
+       x="632.74115"
+       y="218.63718"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="640.64508"
+       y="231.98994"
+       id="text1887"
+       inkscape:export-xdpi="118.28"
+       inkscape:export-ydpi="118.28"><tspan
+         sodipodi:role="line"
+         id="tspan1885"
+         x="640.64508"
+         y="231.98994"
+         style="fill:#ffff00;stroke-width:0.264583">F*** you, F*** you, F*** you</tspan></text>
+  </g>
+</svg>
