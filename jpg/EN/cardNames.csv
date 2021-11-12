@@ -24,6 +24,10 @@ a21,F=T∇S𝜏  Equation for intelligence,F=T∇S𝜏 Formel für Intelligenz
 a22,efficiency detection,Effizienzerkennung
 a23,(inverse) cinematics,(Invers-)Kinematik
 a24,cognitive dissonance detection,Kognitive Dissonanz Erkennung
+a25,SI Base Unit Consciousnes,SI Einheit Bewusstsein
+a26,brain dDOS,content stacksmashing
+a27,ArrayList gefahrInVerzug,ArrayList EndangeredKids
+a27b,ArrayList goodies,ArrayList gute todos
 at1,Assassin,Attentäter
 b1,amygdala,Amygdala
 b2,Pituitary gland or hypophysis,Glandula pituitaria oder Hypophyse
@@ -37,6 +41,7 @@ c64,c64 Ultimate Talk,c64 Ultimate Talk
 co1,state [diagram|machine],Zustandsdiagramm / Endlicher Automat
 co2,rawhammer attack of the mind,Rawhammer Attacke für die Psyche
 co3,carnivore,Carnivore
+card,english,german
 co4,piracy & relicensing,Raubkopieren & Nachlizenzieren
 co5,how they >try< to delete the brain,wie sie versuchen das gehirn zu löschen
 co6,induced rage,induzierte Wut
@@ -47,6 +52,7 @@ co10,pre rendered destruction (als m98),vorausgerenderte Zerstörung
 co11,brain implants info deffence statemachine,xxxxxxxx
 co12,behavioral science stealth mode cam,Verhaltenswissenschaftlich getarnte Kamera
 cpu1,INTEL Management Engine,INTEL Management Engine
+cpu2,hacker terminals,in movies (microdots)
 dc1,joker card,Joker Karte
 dc2,how to intimidate a complete group (ma4),wie man eine Gruppe einschüchtert (ma4)
 dc3,cheap food,billiges essen
@@ -54,7 +60,6 @@ dc4,military people at technoparties,Militär an Technoparties
 dc5,we should change that,wir sollten das ändern
 dc6,Matrix "Architect",Matrix "Architekt"
 dc7,vintage computing,alte Computer
-dc8,1950s design psychology,1950er Gestaltungspsychologie
 dc9,aledged domain model switzerland,mutmassliche Baupläne Schweiz
 dc10,crypto beginners toolkit,Verschlüsselungs Anfänger Baukasten
 dp1,access based enumeration (ABE),Zugriffsbasierte Auflistung
@@ -129,7 +134,7 @@ m34,xxxxx,xxxxxx
 m35,hypocrisy,hochmut
 m36,xxxxx,xxxxxx
 m37,mirror jury,SpiegelGericht
-m38,Jus Primae Noctis Rape to gain access
+m38,Jus Primae Noctis Rape to gain access,Jus Primae Noctis
 m39,xxxxx,xxxxxx
 m40,winning && arrogance,Gewinnen und Hochmut
 m41,rapist terrorist,Vergewaltiger Terrorist
@@ -149,7 +154,7 @@ m52,weapon (part2),Waffen (Teil2)
 m53,digital doomsday (fr-097),Digitales Jüngstes Gericht
 m54,LRU algorithm,sollte MRU sein
 m55,the speaker is lying,das Gegenüber lügt
-m56,indimidation,Drohung
+m56,intimidation,Drohung
 m57,fear detection,Furcht-Erkennung
 m58,strapping psychiatric patients,Fixierbett
 m59,symbol minded spirit,Symbolgesteuerter Geist
@@ -157,6 +162,7 @@ m60,location based [psychoTerror|PsyWar],ortsbasierter [Psychoterror|Psych.Krieg
 m61,touring complete victim,touring vollständiges Opfer
 m62,suicide death bot infection path,Suizid induzierende Software Infektionspfad
 m63,induced avoidance behavior,induziertes Vermeidungsverhalten
+dc8,1950s design psychology,1950er Gestaltungspsychologie
 m64,ways to and up in mental institutions,wie man in der Psychiarie landet
 m65,mindcontrol,"GedankenKontrolle"
 m66,apple-baum,verbotener Apfelbaum
@@ -169,12 +175,13 @@ m72,age based access control,Altersbasierte Zugriffsrechte
 m73,prostatae implant,Prostata Implantat
 m74,escalation algorithm,Eskalations Algorithmu
 m75,genius wanted (hopefully alive),Genie gesucht (hoffentlich lebend)
-m76,principles of behavior,Prinizipien der Verhaltenstheorie
+m76,principles of behavior,Stimulus Response Habit
 m77,faith detection,Vertrauen erkennen
 m78,locked notes,blockierte schirftliche Notizen
 m79,revictimize unfaithfulness,Untreue Revicitmizen
 m80,maximum profit algorithm,Maximaler Ertrag Algorithmus
 m81,dalayed voice + overlay with different person,verzögerte übermittlung und Fremdüberlagerung
+m81c,deep fake speach synthesis,multiple avatars
 m82,homeopatic devices against electromagnetic radiation,Esotherik Geräte
 m83,"Pferd" zureiten,"Pferd" zureiten
 m84,cyber fluorescent pen,Cyber-Leuchtstift
@@ -236,18 +243,31 @@ m137,interface for social-psychology design patterns,schnittstelle für sozio-ps
 m138,CIA/NSA needs informations (honeyPot),CIA/NSA braucht infos XXXXXX?
 m139,george orwell 1984 rat scene xxxxx, George Orwell 1984 Ratten Szene
 m140,marc@debian:~ landev -d -v -v -v,marc@debian:~ landev -d -v -v -v
-m141,xxxxx,xxxxx
+m141,for all, für alle gilt
 m142,multilane app for socio-psychology things,Partitur für SozioPsychologie Dinge
 m143,socio-psychology rootkit for mental institutions,Psychiatrie SozioPsychologie Rootkit
 m144,communication scheme between patients un mental institutions,Kommunikationsschma
 m145,adaptive learning algorithm that adapts places to hide,Adaptiver Lerning Algorithmus
 m146,"fair" "game","Fairplay"
-m147,XXXXX,xxxxx
-m148,bitching durch blums,bitching durch blums
+m147,force me to swimm alone over halwilersee by night, without any backup
+m148,bitching,bitching
 m149,it's your own "fault",alles deine Schuld
 m150,"Anti"psychotics,Psychopharmaka
 m151,i know that already,ich weiss das schon (ignoranz)
 m152,karma system-dynamics,Karma System-Dynamik
+m153,chemical castration,obfuscates reduction of intelligence
+m154,Hauptschlüssel CIA Zwangsmassnahmensystem,Ritual Child Abuse as Key
+m155,simulations waffen,cyber weapons
+m156,secret curt,geheimgericht
+m157,Blackhat ExitStrategy,Blaming The User
+m158,they temper with content,eg wikipedia
+m159,MKULTRA Cellar,more military than agency?
+m160,alt-tab recognition,discrete mathematics
+m161,familiy tree walker algorithm,malware
+m162,pre-ordered physical violence,then blaming the user
+m163,cascaded suicide booths,daily protein rechner
+m164,Ouija generator,ArrayList(THS what triggers most)
+m165,they censor articles,that would help for derivation
 ma1,Bonnie and Clyde,Bonnie and Clyde
 ma2,BaseCap-Hero,BaseCap Held
 ma3,Secretary-scapegoat (the fan),Sekretärin (Sündenbock)
@@ -259,12 +279,14 @@ ma8,disinformation archetype,Fehlinformations-Archetyp
 ma9,voodoo-lady (part 2),voodoo Lady (Teil 2)
 ma10,capitalist archetype,Kapitalisten Archetyp
 ma11,Borg hive xxxxx,Borg Bienenstock
+mos0,relations between mental operating systems, mos relations
 mos1,simpsons mental operating system,simpsons mental operating system
 mos2,pedo mental operating system,Pädophilien Mental Operating system
 mos3,nazi mental operating system,Nazi mental operating system
 mos4,ritual abuse mental operating system,ritueller Missbrauch mental operating system
 mos5,forced marriage oerating system,Zwangsehe mental operating system
 mos6,illegal drugs mental operating system,Drogen mental operating system
+mos7,montauk mental operating system, montauk
 mp1,hannibal lecter,hannibal lecter
 mp2,catherine deane,catherine deane
 p1,sigmund freud,sigmund freud
@@ -278,8 +300,8 @@ p8,edward c. tolman,edward c. tolman
 philo1,Admin = God?,Admin = Gott?
 philo2,eternal live,Ewiges Leben
 q1,Cube,Würfel / Würfeli
-r1,TOR-Repository
-ra1,Ku Klux Klan Archetype
+r1,TOR-Repository,TOR Reoisitory
+ra1,Ku Klux Klan Archetype,Ku Klux Klan Archetyp
 ra2,slave,Sklave
 ra3,Emperor,Imperator
 ra4,Jesus Archetype,JesusArchetyp
@@ -288,6 +310,9 @@ s1,crown,Krone
 s2,fool's cap,Narrenkappe
 s3,laurel wreath,Lorbeerkranz
 s4,lion,Löwe
+src1,crypto anarchy time VS budget, crypto anarchy
+src2,ken thompson hack, autopoietic compiler malware
+src3,VHDL / Verilog Malware, Hardware Backdoors
 scg1,Soldier,Soldat
 scg2,Gamer,Gamer
 scg3,Peppi drug scapegoat,Peppi Drogen Sündenbock xxxxx Laborratte?
@@ -308,7 +333,7 @@ t6,spinal cord iplant,Rückenmark Implantat
 t7,3D GameEngine,3D GameEngine
 t8,Quadrophonic,Quadrophonie
 t9,Hardware Synthesizer / Sampler,Hardware Synthesizer / Sampler
-t10,Loop Recorder (Dormiphone)
+t10,Loop Recorder (Dormiphone), Endlosband
 t11,classical conditioning,Klassische Konditionierung
 t12,microwafe hearing (frey effect),Frey Effekt
 t13,moved to c1, moved to c1
@@ -318,7 +343,7 @@ t16,PoliceCar,Polizei Wagen (Stimuli-Reaktion)
 t17,XXXXX,xXXXXX
 t18,WiFi / Bluetooth or other beacon,Wifi / Bluetooth Barke
 t19,Cyber choking chain,Cyber Würgekette
-t20,xxxxx,xxxxx
+t20,wobbler,sweep generator
 t21,touring complete avatar,TouringVollständiger Avatar
 t22,robot teaching mode,Roboter programmier Modus
 t23,Loop Recorder (Part 2),Endlosband (Part 2)
@@ -338,8 +363,19 @@ t36,(Cyber-)Isolation Cell,Cyber-IsolationsZelle
 t37,ICD10-F44.x Chess Clock,ICD10-F44.x Schachuhr
 t38,infrared ray weapon maybe in every display?,infrarot waffe in bildschirmen?
 t39,crime scene 3D scanner,3D Tatort Scanner
+t40,neuralink,neuralink
+t41,implant firmware blob,implantat firmware blob
+t42,bad one-way mirror,EinwegSpiegel Satans
+t42b,good one-way mirror,EinwegSpielge für Jüngere
+t43,Military INTAF,System Schweiz
+t44,Swiss Military Drone,Drone
+t45,Swiss Military Mainframe,Mainframe
+t46,Tarot ⇌ Rune Symbols ↦ Pattern Recognition, (Cyber-)WeaponSystem
 w1,whistleblower,whistleblower
 w2,whistleblower blowjob,whistleblower blowjob
+n1,qfire,turbine tarmoil qantum inserts
+n2,router link stat,SNMPv2
+n3,military fiber network,switzerland
 
 
 

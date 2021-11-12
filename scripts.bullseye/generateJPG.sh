@@ -11,6 +11,7 @@ then
 
 
 	"
+	sudo apt-get install graphicsmagick-imagemagick-compat
 	exit 0
 fi
 
