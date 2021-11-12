@@ -350,7 +350,7 @@ t9,Hardware Synthesizer / Sampler,Hardware Synthesizer / Sampler
 t10,Loop Recorder (Dormiphone), Endlosband
 t11,classical conditioning,Klassische Konditionierung
 t12,microwave hearing (frey effect),Frey Effekt
-t12,microwave hearing with addons,Frey Effekt
+t12b,microwave hearing with addons,Frey Effekt
 t13,moved to c1, moved to c1
 t14,EventTrigger,EventTrigger
 t15,Active Denial System,Active Denial System
