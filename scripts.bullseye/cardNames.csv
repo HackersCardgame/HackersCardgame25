@@ -89,6 +89,7 @@ e3,[tunnel|ESAKI] diode,Tunnel Diode
 e4,antenna,Antenne
 e5,multiple sensors,sensor array
 e6,equation group [malware|built-in],equation group [malware|built-in]
+e7,forensic disc controller,forensischer festplatten controller
 endo1,endocrinology,Endokrinologie
 env1,save energy,Energie sparen
 env2,slums,Slums
@@ -348,7 +349,8 @@ t8,Quadrophonic,Quadrophonie
 t9,Hardware Synthesizer / Sampler,Hardware Synthesizer / Sampler
 t10,Loop Recorder (Dormiphone), Endlosband
 t11,classical conditioning,Klassische Konditionierung
-t12,microwafe hearing (frey effect),Frey Effekt
+t12,microwave hearing (frey effect),Frey Effekt
+t12,microwave hearing with addons,Frey Effekt
 t13,moved to c1, moved to c1
 t14,EventTrigger,EventTrigger
 t15,Active Denial System,Active Denial System
@@ -378,12 +380,34 @@ t38,infrared ray weapon maybe in every display?,infrarot waffe in bildschirmen?
 t39,crime scene 3D scanner,3D Tatort Scanner
 t40,neuralink,neuralink
 t41,implant firmware blob,implantat firmware blob
+t41b,brainjacking,used to obfuscate abuse with legitimate access
 t42,bad one-way mirror,EinwegSpiegel Satans
 t42b,good one-way mirror,EinwegSpielge für Jüngere
 t43,Military INTAF,System Schweiz
 t44,Swiss Military Drone,Drone
 t45,Swiss Military Mainframe,Mainframe
 t46,Tarot ⇌ Rune Symbols ↦ Pattern Recognition, (Cyber-)WeaponSystem
+t47,Swiss Military Mainframe,Mainframe
+t48,Swiss Military Mainframe,Mainframe
+t49,Swiss Military Mainframe,Mainframe
+t50,missing,missing
+t51,missing,missing
+t52a,pet RFID,hausiter RFID
+t52b,Old Human RFID,RFID
+t52c,Shop RFID against theft,RFID gegen ladendiebstal
+t52d,RFID powder,RFID Puder
+t52e,RFID warehouse,RFID Lager
+t53,motion capture with gyros,bewegungsfelder
+t54,wifi gesture recognition,wiSee
+t55,Swiss Military Mainframe,Mainframe
+t56,Swiss Military Mainframe,Mainframe
+t57,Swiss Military Mainframe,Mainframe
+t58,Swiss Military Mainframe,Mainframe
+t59,Swiss Military Mainframe,Mainframe
+t60,Swiss Military Mainframe,Mainframe
+t61,Swiss Military Mainframe,Mainframe
+t62,Swiss Military Mainframe,Mainframe
+t63,Swiss Military Mainframe,Mainframe
 w1,whistleblower,whistleblower
 w2,whistleblower blowjob,whistleblower blowjob
 n1,qfire,turbine tarmoil qantum inserts
