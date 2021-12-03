@@ -8,7 +8,7 @@ http://hackerscardgame.ch
 https://0x8.ch/HackersCardgame25
 
 
-Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you could then be blackmailed with that murderer the rest of your life. If you though play remember always to also play the **Reversibility Card** so in case something goes wrong nobody dies and the mistake can be reverted, which technically would mean **that eg. a medic is around the person you attack** that would in case of something goes wrong or you did wrong he could prevent that.
+Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you could then be blackmailed with that murder the rest of your life. If you though play remember always to also play the **Reversibility Card** so in case something goes wrong nobody dies and the mistake can be reverted, which technically would mean **that eg. a medic is around the person you attack** that would in case of something goes wrong or you did wrong he could prevent that.
 
 Since i'm permanently under electronical- / psychological warfare **i can not check, if someone injected malware**, for example 0-day exploits in the jpg's or inkscape exploits in the svg's.
 
